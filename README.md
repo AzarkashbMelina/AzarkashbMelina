@@ -5,10 +5,8 @@
   <br>
   <br>  
 </p>
-- _**Hello, I'm Melina Azarkashb**_
-<p align="center"> 
-</p>
-
+𝑰 ❤️ 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+🚀 𝘼𝙎𝙋.𝙉𝙀𝙏 𝘾𝙤𝙧𝙚 𝘿𝙚𝙫 | 🏗️ 𝘾𝙡𝙚𝙖𝙣 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 | 🗃️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧
 <!--
 **AzarkashbMelina/AzarkashbMelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
