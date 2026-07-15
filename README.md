@@ -1,25 +1,15 @@
-# _**Hello, I'm Melina Azarkashb**_
-<p align="center"> 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarkashbMelina&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
- 
-  <br>
-  <br>  
-</p>
+# 💫 About Me:
+𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br><br>☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧
 
-𝑰 ❤️ 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-🚀 𝘼𝙎𝙋.𝙉𝙀𝙏 𝘾𝙤𝙧𝙚 𝘿𝙚𝙫 | 🏗️ 𝘾𝙡𝙚𝙖𝙣 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 | 🗃️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧
-<!--
-**AzarkashbMelina/AzarkashbMelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AzarkashbMelina&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AzarkashbMelina&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AzarkashbMelina&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
